@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "commander": "^9.4.1",
-    "nanoid": "^4.0.0"
+    "nanoid": "^4.0.0",
+    "uid": "^2.0.1"
   }
 }
